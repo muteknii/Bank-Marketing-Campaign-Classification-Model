@@ -1,9 +1,9 @@
 # Bank-Marketing-Campaign-Classification-Model
 **Outline**
 
-   >> Business Problem
+   >> Business Problem Understanding
    
-   >> Data Understanding & Anakysis
+   >> Data Understanding & Analysis
    
    >> Data Preprocessing
    
