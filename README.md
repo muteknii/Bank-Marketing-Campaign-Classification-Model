@@ -1,14 +1,15 @@
 # Bank-Marketing-Campaign-Classification-Model
 **Outline**
-   Business Problem
+
+   >> Business Problem
    
-   Data Understanding & Anakysis
+   >> Data Understanding & Anakysis
    
-   Data Preprocessing
+   >> Data Preprocessing
    
-   Modeling
+   >> Modeling
    
-  Conclusion and Recommendation
+   >> Conclusion and Recommendation
 
 **Business UNderstanding**
 One financial product that is well-known to the public is term deposits. The term deposit mechanism is that a customer deposits a sum of money at a bank or a financial institution, and the money can only be withdrawn after a certain period of time. This scheme will allow banks to invest in higher-yield financial products to generate profits. The more customers make deposits, the more the bank will be able to increase its investment and profits. But in return,  customers receive fixed interest based on their deposited amount. **One effective strategy to attract customers to subscribe to a term deposit is through marketing campaigns.**
