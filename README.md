@@ -1,4 +1,4 @@
-# Bank-Marketing-Campaign-Classification-Model
+# MACHINE LEARNING_Bank-Marketing-Campaign-Classification-Model
 **Outline**
 
    >> Business Problem Understanding
